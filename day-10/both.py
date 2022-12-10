@@ -1,5 +1,5 @@
-file = open('test.txt', 'r', encoding='utf-8').read().splitlines()
-#file = open('input.txt', 'r', encoding='utf-8').read().splitlines()
+#file = open('test.txt', 'r', encoding='utf-8').read().splitlines()
+file = open('input.txt', 'r', encoding='utf-8').read().splitlines()
 
 aaaaaa, bbbbbb = [1], []
 for i in file:
